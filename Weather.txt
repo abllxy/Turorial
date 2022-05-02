@@ -1,0 +1,64 @@
+{
+    "status": "1", 
+    "count": "1", 
+    "info": "OK", 
+    "infocode": "10000", 
+    "forecasts": [
+        {
+            "city": "潢川县", 
+            "adcode": "411526", 
+            "province": "河南", 
+            "reporttime": "2022-04-10 15:02:42", 
+            "casts": [
+                {
+                    "date": "2022-04-10", 
+                    "week": "7", 
+                    "dayweather": "晴", 
+                    "nightweather": "晴", 
+                    "daytemp": "32", 
+                    "nighttemp": "20", 
+                    "daywind": "南", 
+                    "nightwind": "南", 
+                    "daypower": "4", 
+                    "nightpower": "4"
+                }, 
+                {
+                    "date": "2022-04-11", 
+                    "week": "1", 
+                    "dayweather": "晴", 
+                    "nightweather": "阴", 
+                    "daytemp": "32", 
+                    "nighttemp": "19", 
+                    "daywind": "南", 
+                    "nightwind": "南", 
+                    "daypower": "4", 
+                    "nightpower": "4"
+                }, 
+                {
+                    "date": "2022-04-12", 
+                    "week": "2", 
+                    "dayweather": "阴", 
+                    "nightweather": "暴雨", 
+                    "daytemp": "25", 
+                    "nighttemp": "12", 
+                    "daywind": "北", 
+                    "nightwind": "北", 
+                    "daypower": "4", 
+                    "nightpower": "4"
+                }, 
+                {
+                    "date": "2022-04-13", 
+                    "week": "3", 
+                    "dayweather": "小雨", 
+                    "nightweather": "多云", 
+                    "daytemp": "16", 
+                    "nighttemp": "6", 
+                    "daywind": "北", 
+                    "nightwind": "北", 
+                    "daypower": "4", 
+                    "nightpower": "4"
+                }
+            ]
+        }
+    ]
+}
